@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanAliV
 - 👀 I’m interested in user centric design, user research, user behavioral data and analysis, experiments, split.io 
-- 🌱 I’m currently learning OKR 
+- 🌱 I’m currently learning cyber securty, logging tracability, coding in github, and OKR 
 - 💞️ I’m looking to collaborate on experimnets (a/b tests)
 - 📫 How to reach me dan.vitvass@viaplay.com
 
